@@ -1,4 +1,4 @@
-# Manual de boas práticas - Homens, o que não fazer :suspect: :no_entry_sign: :no_good:
+# Guia de boas práticas - Homens, o que não fazer :suspect: :no_entry_sign: :no_good:
 Este é um manual criado colaborativamente durante a keynote das Pyladies Teresina no Software Freedom Day 2016
 
 Durante a keynote perguntamos aos participantes que atitudes os homens deveriam evitar quando trabalham com mulheres na TI.
