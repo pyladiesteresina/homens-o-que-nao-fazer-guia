@@ -9,5 +9,5 @@ Este é um manual em construção, então sinta-se a vontade para colaborar.
 #### Se você sabe git :information_desk_person:
 Faça o fork en envie um pull request com a sua contribuição
 #### Se você não sabe git :raising_hand:
-Abra uma [issue]() com a sua contruibuição que a gente coloca no manual.    
+Abra uma [issue](https://github.com/pyladiesteresina/homens-o-que-nao-fazer-manual/issues) com a sua contruibuição que a gente coloca no manual.    
 *Ps: se quiser aprender fala com a gente, que nós te ajudamos*
