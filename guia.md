@@ -6,7 +6,7 @@ Durante a keynote perguntamos aos participantes que atitudes os homens deveriam 
 Este é um guia em construção, então sinta-se a vontade para colaborar.
 
 ## 1 - Distribua as tarefas igualmente
-Não atribua somente tarefas de secretariado/organização para as mulheres. Elas também fazem parte do time técnico e não gostam de ser excluídas do trabalho "real"
+Não atribua somente tarefas de secretariado/organização para as mulheres. Elas também fazem parte do time técnico e não gostam de ser excluídas do trabalhogit checkout "real"
 
 ## 2 - Não imponha vagas para homens
 Se você está com vagas de trabalho abertas na sua empresa é legal usar os dois genêros para se referir a ela.    
@@ -25,6 +25,6 @@ Não presuma que ela tem que saber mais pelo fato de ser mulher
 `goto 4.1`
 
 ## 6 - Não seja omisso!
-Se você se considera um cara bacana e a favor da igualdade de gênero, posicione-se contra comentarios maudosos e/ou alguma forma de opressão, quando presenciar.
+Se você se considera um cara bacana e a favor da igualdade de gênero, posicione-se contra comentarios maldosos e/ou alguma forma de opressão, quando presenciar
 
 
