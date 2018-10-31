@@ -6,6 +6,7 @@ Durante a keynote perguntamos aos participantes que atitudes os homens deveriam 
 Este é um guia em construção, então sinta-se a vontade para colaborar.
 
 ## 1 - Distribua as tarefas igualmente
+
 Não atribua somente tarefas de secretariado/organização para as mulheres. Elas também fazem parte do time técnico e não gostam de ser excluídas do trabalhogit checkout "real"
 
 ## 2 - Não imponha vagas para homens
